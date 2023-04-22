@@ -1,8 +1,44 @@
 h1 {
     color:red;
+    background-color:black;
     font-size:125px;
     text-decoration:solid;
     font-weight:600;
     font-family:Arial, Helvetica, sans-serif;
     text-align:center;
+}
+.chilli{
+    color:saddlebrown;
+    background-color:blue;
+    font-weight:bold;
+    font-size:62px;
+}
+.fried {
+    color:aqua;
+    background-color:magenta;
+    font-weight:100;
+    font-size:62px;
+}
+.goulash {
+    color:blueviolet;
+    background-color:deeppink;
+    font-weight:bolder;
+    font-size:62px;
+}
+
+.c {
+    height:auto;
+    width: 500px;
+    
+}
+
+.d{
+    color:lavender;
+    background-color:darkgoldenrod;
+    font-size:80px;
+    text-align:center;
+}
+
+p{
+    font-size:40px;
 }
